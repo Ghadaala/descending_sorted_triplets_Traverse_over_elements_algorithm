@@ -1,0 +1,2 @@
+# descending_sorted_triplets_Traverse_over_elements_algorithm
+ More_Affiant_ Algorithm: Traverse over elements,implimintation Python Code
